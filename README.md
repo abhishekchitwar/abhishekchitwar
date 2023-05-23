@@ -10,7 +10,7 @@
 ## A little bit about myself.. 👋😄
 
 My name is [**Abhishek Chitwar**](https://www.linkedin.com/in/abhishek-chitwar-48523b38),  I am currently working for [Ansys](https://www.ansys.com/), more specifically work on Methods Development,
-I have experience in physics-based engineering software development, having been involved in the development of an aerothermal modeling tool at past organization. In addition, I proficient in utilizing CFD as an application specifically for Turbomachinery. I am an enthusiastic learner & constantly strive to expand my knowledge in developing Physics-based Simulation Workflows and Enterprise Solutions using the [PyAnsys](https://github.com/pyansys) ecosystem. Looking forward to talking to you all!
+I have experience in physics-based engineering software development, having been involved in the development of an aerothermal modeling tool at past organization. In addition, proficient in utilizing CFD as an application specifically for Turbomachinery. I am an enthusiastic learner & constantly strive to expand my knowledge in developing Physics-based Simulation Workflows and Enterprise Solutions using the [PyAnsys](https://github.com/pyansys) ecosystem. Looking forward to talking to you all!
 
 
 
