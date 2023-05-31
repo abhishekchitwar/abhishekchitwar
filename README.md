@@ -59,6 +59,16 @@ I have experience in physics-based engineering software development, having been
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
 </div>
 
+## :octocat: Ansys & PyAnsys
+
+
+- **[PyFluent](https://github.com/pyansys/pyfluent)** Pythonic interface to Ansys Fluent. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/pyfluent?style=social"> 
+- **[Ansys Python Manager (QT)](https://github.com/ansys/python-installer-qt-gui)** Python QT app for installing Python on a Windows machine. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/python-installer-qt-gui?style=social"> 
+
+
+
+
+
 ## ⚡ GitHub statistics
 
 <br>
